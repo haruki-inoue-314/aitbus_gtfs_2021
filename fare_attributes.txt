@@ -1,0 +1,2 @@
+fare_id,price,currency_type,payment_method,transfers
+F00,0,JPY,0,0

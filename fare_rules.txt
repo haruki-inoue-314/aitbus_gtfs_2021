@@ -1,0 +1,3 @@
+fare_rules,route_id	,origin_id,destination_id
+F00,R1000,Z00,Z00
+F00,R2000,Z00,Z00
